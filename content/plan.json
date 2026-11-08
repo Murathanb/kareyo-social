@@ -1,0 +1,1867 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "g01",
+      "day": 0,
+      "time": "10:00",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "Tohumdan 30 gün. 🌱 Her gün tek bir kare, sonuç 10 saniye.\n\nKareyo ile her gün aynı kareyi çekiyorsun; gerisini uygulama hallediyor: kareleri hizalıyor, gün sayacını ekliyor, videoyu kurguluyor.\n\nSen hangi değişimi izlemek isterdin? 👇\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "feslegen",
+        "title": "Fesleğen",
+        "frames": 30,
+        "music": "sakin"
+      },
+      "notes": null
+    },
+    {
+      "id": "g02",
+      "day": 0,
+      "time": "10:05",
+      "kind": "image",
+      "pillar": "ürün",
+      "caption": "Kareyo'ya hoş geldin. 👋\n\nKareyo, değişimini her gün tek bir fotoğrafla kaydetmen için tasarlandı: kilo, fitness, bitki, evcil hayvan, saç ya da sakal.\n\n• Her gün bir kare, aynı açıdan\n• Dünkü kare hayalet katman olarak üstte\n• Sonunda tek dokunuşla timelapse ve Reels\n• Fotoğrafların yalnızca telefonunda 🔒\n\niOS'ta ücretsiz, bağlantı profilde.\n\n#kareyo #hergünbirkare #değişim #timelapse",
+      "render": {
+        "template": "announce",
+        "eyebrow": "MERHABA",
+        "headline": "Her gün\nbir kare.",
+        "body": "Değişimini fotoğrafla kaydet,\nzamanla izle.",
+        "screen": "home",
+        "accent": "gold"
+      },
+      "notes": null
+    },
+    {
+      "id": "g03",
+      "day": 0,
+      "time": "10:10",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Timelapse'in neden titriyor? 5 kuralla her gün aynı kareyi yakala. 🔖\n\nKaydet, yarın sabah dene. Hangi kural sana yeni geldi? Yorumlara yaz.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "carousel",
+        "accent": "mint",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "İPUCU",
+            "title": "Aynı kareyi\nyakalamanın\n5 kuralı",
+            "image": "pilea/day30"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Hep aynı saatte çek",
+            "body": "Işık değişirse her şey değişir. Bir saat seç ve ona sadık kal; Kareyo o saatte hatırlatır."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Aynı yerde dur",
+            "body": "Yere küçük bir bant yapıştır ya da duvardaki bir noktayı referans al."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Dünkü kareyi üstüne koy",
+            "body": "Kareyo kamerada dünkü fotoğrafını hayalet katman olarak gösterir. Çizgileri üst üste getir, çek."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Telefonu sabitle",
+            "body": "3 ya da 10 saniyelik zamanlayıcıyı aç, telefonu bir yere daya. El titremesi biter."
+          },
+          {
+            "kind": "text",
+            "n": 5,
+            "title": "Gerisini hizalamaya bırak",
+            "body": "Küçük kaymaları Sihirli Hizalama düzeltir: yüzü, bedeni ya da sahneyi bulur, kareleri aynı kadraja oturtur."
+          },
+          {
+            "kind": "cta",
+            "title": "Hepsi tek\nuygulamada.",
+            "body": "Kaydet 🔖 · bağlantı profilde"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "g04",
+      "day": 0,
+      "time": "10:15",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "30 günde Monstera. 🌿 İlk yaprak, ilk yarık, sonra bir orman.\n\nHer gün aynı saatte, aynı yerden tek bir kare. Kareyo kareleri hizaladı ve videoyu kendisi kurguladı.\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "monstera",
+        "title": "Monstera",
+        "frames": 30,
+        "music": "parlak"
+      },
+      "notes": null
+    },
+    {
+      "id": "g05",
+      "day": 0,
+      "time": "10:20",
+      "kind": "image",
+      "pillar": "dönüşüm",
+      "caption": "Gün 1 → Gün 30. Aynı saksı, aynı pencere, aynı açı.\n\nFarkı yalnızca her gün çektiğinde görürsün. ✨\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "beforeafter",
+        "sequence": "pilea",
+        "left": 1,
+        "right": 30,
+        "headline": "Gün 1 → Gün 30"
+      },
+      "notes": null
+    },
+    {
+      "id": "g06",
+      "day": 0,
+      "time": "10:25",
+      "kind": "carousel",
+      "pillar": "ürün",
+      "caption": "Kareyo nasıl çalışır? 4 adımda. 👇\n\n1. Değişimini seç\n2. Her gün bir kare çek\n3. Hayalet katmanla hizala\n4. Sonunda filmini izle\n\nBağlantı profilde.\n\n#kareyo #hergünbirkare #değişim #timelapse",
+      "render": {
+        "template": "carousel",
+        "accent": "gold",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "NASIL ÇALIŞIR",
+            "title": "4 adımda\nKareyo",
+            "image": "monstera/day30"
+          },
+          {
+            "kind": "screen",
+            "n": 1,
+            "title": "Değişimini seç",
+            "body": "Kilo, fitness, bitki, evcil hayvan, saç/sakal ya da kendi kategorin. Süreyi belirle.",
+            "screen": "home"
+          },
+          {
+            "kind": "screen",
+            "n": 2,
+            "title": "Her gün bir kare",
+            "body": "Hatırlatma gelir, kamera açılır. Gün sayacın ve serin büyür.",
+            "screen": "detail"
+          },
+          {
+            "kind": "screen",
+            "n": 3,
+            "title": "Önce / Sonra",
+            "body": "İlk günle bugünü tek ekranda karşılaştır; perdeyi kaydır.",
+            "screen": "compare"
+          },
+          {
+            "kind": "screen",
+            "n": 4,
+            "title": "Filmini izle",
+            "body": "Tek dokunuşla Reels: gün sayacı, Önce/Sonra perdesi ve müzik.",
+            "screen": "reveal"
+          },
+          {
+            "kind": "cta",
+            "title": "Bugün\nGün 1 olsun.",
+            "body": "iOS'ta ücretsiz · bağlantı profilde"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "g07",
+      "day": 0,
+      "time": "10:30",
+      "kind": "reel",
+      "pillar": "ürün",
+      "caption": "Gün bitmeden Kareyo hatırlatır. ⏳\n\nBugünün karesini çekmediysen kilit ekranında ve Dinamik Ada'da gece yarısına geri sayım başlar. Dokun, çek, seri devam etsin.\n\n#kareyo #hergünbirkare #değişim #timelapse",
+      "render": {
+        "template": "reel-product",
+        "music": "hareketli",
+        "scenes": [
+          {
+            "kind": "title",
+            "eyebrow": "KAREYO",
+            "title": "Seri bozulmasın."
+          },
+          {
+            "kind": "image",
+            "image": "screens/island",
+            "caption": "Gün bitmeden geri sayım"
+          },
+          {
+            "kind": "phone",
+            "screen": "home",
+            "caption": "Bugünün karesi seni bekliyor"
+          },
+          {
+            "kind": "phone",
+            "screen": "detail",
+            "caption": "Çek, seri büyüsün 🔥"
+          },
+          {
+            "kind": "cta",
+            "title": "Her gün\nbir kare."
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "g08",
+      "day": 0,
+      "time": "10:35",
+      "kind": "image",
+      "pillar": "topluluk",
+      "caption": "Yakında: #kareyo30 🗓️\n\n30 gün boyunca her gün bir kare. Kilo, bitki, saç, sakal, evcil hayvanın; ne olursa.\n\nBiz de katılıyoruz: bir pothos'u 30 gün boyunca çekeceğiz ve her hafta burada paylaşacağız. Sen de hazır ol.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması",
+      "render": {
+        "template": "grid30",
+        "sequence": "pothos",
+        "headline": "#kareyo30",
+        "body": "30 gün · 30 kare · yakında"
+      },
+      "notes": null
+    },
+    {
+      "id": "g09",
+      "day": 0,
+      "time": "10:40",
+      "kind": "carousel",
+      "pillar": "motivasyon",
+      "caption": "Neden 30 gün? 🧠\n\nDeğişim çoğu zaman günlük olarak görünmez; kendini kandırdığını düşünüp bırakırsın. Her gün bir kare, görünmeyeni görünür yapar.\n\nKaydet ve bırakmak üzereyken tekrar oku. 🔖\n\n#kareyo #hergünbirkare #değişim #timelapse #alışkanlık #motivasyon #disiplin",
+      "render": {
+        "template": "carousel",
+        "accent": "coral",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "MOTİVASYON",
+            "title": "Neden\n30 gün?",
+            "image": "feslegen/day30"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Değişim günlük görünmez",
+            "body": "Aynaya her gün bakınca farkı göremezsin. Kayıt tutunca görürsün."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Küçük adım, büyük seri",
+            "body": "Günde 5 saniye. Bu kadar küçük bir adımı bırakmak zor."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Seri seni taşır",
+            "body": "Zincir uzadıkça kırmak istemezsin. Kareyo serini her gün gösterir."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Sonunda kanıt var",
+            "body": "30 gün sonra elinde 30 kare ve bir film olur. Kendine en iyi motivasyon."
+          },
+          {
+            "kind": "cta",
+            "title": "Bugün\nbaşla.",
+            "body": "Kaydet 🔖 · bağlantı profilde"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "w1-pzt",
+      "day": 1,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "ürün",
+      "caption": "Kareyo 1.2 burada. ✨\n\nHer gün bir kare çekiyorsun; artık gerisini Kareyo hallediyor:\n\n🎬 Tek dokunuşla Reels: değişimin müziğe göre kesilmiş, paylaşmaya hazır bir videoya dönüşüyor.\n🪄 Sihirli Hizalama: telefon her gün biraz kaysa da kareler aynı kadrajda kalıyor.\n🤝 Birlikte Değiş: partnerinle ya da arkadaşınla ekip kur, ortak serinizi birlikte büyütün.\n\nApp Store'dan güncelle, bugünün karesini çek.\n\n#kareyo #hergünbirkare #değişim #timelapse",
+      "render": {
+        "template": "file",
+        "path": "launch/01-lansman-4x5"
+      },
+      "notes": "1.2 App Store'da yayında olmalı."
+    },
+    {
+      "id": "s1-pzt",
+      "day": 1,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w1-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s1-car",
+      "day": 3,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w1-car",
+      "day": 3,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "ürün",
+      "caption": "30 gün, tek pilea, her gün bir kare. 🌱\n\nBu videoyu Kareyo kendisi yaptı: kareleri hizaladı, gün sayacını ve Önce/Sonra perdesini ekledi. Yeni Tek Dokunuşla Reels ile senin değişimin de bir dokunuşla Reels oluyor.\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-file",
+        "path": "launch/kareyo-reels-pilea",
+        "music": "parlak"
+      },
+      "notes": null
+    },
+    {
+      "id": "w1-cum",
+      "day": 5,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "ürün",
+      "caption": "30 gün. 10 saniye. Paylaşmaya hazır. 🎬\n\nKareyo artık videonu kendisi kurguluyor: açılış başlığı, gün sayacı, Önce/Sonra perdesi ve kapanış kartı. Müzik eklersen kareler vuruşlara oturuyor.\n\nSen sadece her gün bir kare çek.\n\n#kareyo #hergünbirkare #değişim #timelapse #reels",
+      "render": {
+        "template": "file",
+        "path": "launch/02-reels-4x5"
+      },
+      "notes": null
+    },
+    {
+      "id": "s1-cmt",
+      "day": 6,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 1,
+        "tip": "Hatırlatma saatini her gün çektiğin saate kur."
+      },
+      "notes": null
+    },
+    {
+      "id": "w1-paz",
+      "day": 7,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Hayalet katman nedir, nasıl kullanılır? 👻\n\nKareyo'nun kamerası dünkü fotoğrafını yarı saydam olarak gösterir. Kendini ya da konunu onunla üst üste getir, sonra çek. 3 adım:\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "carousel",
+        "accent": "mint",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "İPUCU",
+            "title": "Hayalet\nkatmanla\nhizala",
+            "image": "sakal/day20"
+          },
+          {
+            "kind": "onion",
+            "n": 1,
+            "title": "Dünkü kare üstte",
+            "body": "Kamerayı açınca dünkü fotoğrafın yarı saydam görünür.",
+            "sequence": "pilea",
+            "a": 21,
+            "b": 22,
+            "aligned": false
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Çizgileri eşle",
+            "body": "Saksının kenarı, omuzların, çenen: belirgin bir çizgiyi seç ve dünküyle üst üste getir."
+          },
+          {
+            "kind": "onion",
+            "n": 3,
+            "title": "Çek, Kareyo düzeltsin",
+            "body": "Kalan küçük kaymayı Sihirli Hizalama halleder.",
+            "sequence": "pilea",
+            "a": 21,
+            "b": 22,
+            "aligned": true
+          },
+          {
+            "kind": "cta",
+            "title": "Kaydet,\nyarın dene.",
+            "body": "🔖 · bağlantı profilde"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "w2-pzt",
+      "day": 8,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "ürün",
+      "caption": "Telefon her gün biraz kayar. Kareyo düzeltir. 🪄\n\nSihirli Hizalama her karede yüzü, bedeni ya da sahneyi bulup tüm kareleri aynı kadraja oturtuyor. Timelapse'in titremiyor, Önce/Sonra karşılaştırman birebir örtüşüyor.\n\nHepsi cihazında; fotoğrafların hiçbir yere gönderilmiyor.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "file",
+        "path": "launch/03-sihirli-hizalama-4x5"
+      },
+      "notes": null
+    },
+    {
+      "id": "s2-pzt",
+      "day": 8,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w2-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s2-car",
+      "day": 10,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w2-car",
+      "day": 10,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "30 gün tıraş yok. 🧔 Gün 1'den Gün 30'a, her gün aynı açıdan bir kare.\n\nSakal, saç, kaş… Yavaş değişen her şey için Kareyo.\n\n#kareyo #hergünbirkare #değişim #timelapse #sakal #sakalbakımı #beard",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "sakal",
+        "title": "Sakal",
+        "frames": 30,
+        "music": "hareketli"
+      },
+      "notes": null
+    },
+    {
+      "id": "w2-cum",
+      "day": 12,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "topluluk",
+      "caption": "Değişim, birlikte daha kolay. 🤝\n\nPartnerinle, bir arkadaşınla ya da ailenle ekip kur. Her gün kimin karesini çektiğini görün, ortak serinizi birlikte büyütün. Unutan olursa tek dokunuşla dürt.\n\nFotoğrafların sende kalır; ekibin yalnızca gün ve seri bilgisini görür.\n\nBu yolculuğa kiminle çıkıyorsun? Etiketle 👇\n\n#kareyo #hergünbirkare #değişim #timelapse #birliktedeğiş",
+      "render": {
+        "template": "file",
+        "path": "launch/04-birlikte-degis-4x5"
+      },
+      "notes": null
+    },
+    {
+      "id": "s2-cmt",
+      "day": 13,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 2,
+        "tip": "Dünkü kare hayalet katmanda: çizgileri eşle, çek."
+      },
+      "notes": null
+    },
+    {
+      "id": "w2-paz",
+      "day": 14,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "dönüşüm",
+      "caption": "Gün 1 → Gün 30. Kaydır, farkı gör. 👀\n\nİlk günle bugünü tek ekranda karşılaştır. Kareler birebir örtüşüyor; sadece değişim görünüyor.\n\nSenin Gün 1'in ne? Bugün başla.\n\n#kareyo #hergünbirkare #değişim #timelapse #öncesonra",
+      "render": {
+        "template": "file",
+        "path": "launch/05-once-sonra-4x5"
+      },
+      "notes": null
+    },
+    {
+      "id": "w3-pzt",
+      "day": 15,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "topluluk",
+      "caption": "#kareyo30 başlıyor! 🗓️ 30 gün, 30 kare.\n\nKurallar kaydırmalıda. Katılmak için:\n1. Kareyo'da bir değişim başlat (30 gün)\n2. Her gün bir kare çek\n3. Hikâyende paylaşırken #kareyo30 ve @kareyo etiketle\n\n30. günün sonunda en güzel değişimleri burada paylaşacağız (izninle).\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması",
+      "render": {
+        "template": "carousel",
+        "accent": "gold",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "MEYDAN OKUMA",
+            "title": "#kareyo30\nbaşlıyor",
+            "image": "pothos/day01"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Bir değişim seç",
+            "body": "Kilo, fitness, bitki, evcil hayvan, saç/sakal ya da kendi kategorin. Süre: 30 gün."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Her gün bir kare",
+            "body": "Aynı saat, aynı yer, aynı açı. Bir günü kaçırırsan kaçırma hakkın seni korur."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Paylaş ve etiketle",
+            "body": "Haftada bir hikâyende ilerlemeni paylaş: #kareyo30 ve @kareyo."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Gün 30'da filmini çıkar",
+            "body": "Tek dokunuşla Reels ile değişimini paylaş. En güzelleri burada öne çıkaracağız."
+          },
+          {
+            "kind": "cta",
+            "title": "Biz de\nkatılıyoruz.",
+            "body": "Pothos · her pazartesi ilerleme"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s3-pzt",
+      "day": 15,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w3-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s3-car",
+      "day": 17,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w3-car",
+      "day": 17,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "topluluk",
+      "caption": "#kareyo30 Gün 1: biz de başladık. 🪴\n\nBir pothos, bir pencere, 30 gün. Her hafta ilerlemesini burada paylaşacağız. Sen ne çekiyorsun?\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-product",
+        "music": "parlak",
+        "scenes": [
+          {
+            "kind": "title",
+            "eyebrow": "#KAREYO30",
+            "title": "Gün 1."
+          },
+          {
+            "kind": "image",
+            "image": "pothos/day01",
+            "caption": "Bir saksı. Bir pencere."
+          },
+          {
+            "kind": "title",
+            "eyebrow": "KURAL",
+            "title": "Her gün\naynı saatte\nbir kare."
+          },
+          {
+            "kind": "image",
+            "image": "pothos/day01",
+            "caption": "Görüşmek üzere: Gün 7 👋"
+          },
+          {
+            "kind": "cta",
+            "title": "Sen de\nkatıl."
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "w3-cum",
+      "day": 19,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "topluluk",
+      "caption": "Hangi değişimi takip ediyorsun? 👇\n\n🏋️ Kilo / fitness\n🌿 Bitki\n🐶 Evcil hayvan\n💇 Saç / sakal\n\nYorumlara emojisini bırak; en çok seçilen kategori için özel ipuçları hazırlayacağız.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması",
+      "render": {
+        "template": "question",
+        "headline": "Hangi değişimi\ntakip ediyorsun?",
+        "options": [
+          "🏋️ Kilo / fitness",
+          "🌿 Bitki",
+          "🐶 Evcil hayvan",
+          "💇 Saç / sakal"
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s3-cmt",
+      "day": 20,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-streak",
+        "sequence": "pothos",
+        "frame": 3,
+        "headline": "#kareyo30 · Gün 3"
+      },
+      "notes": null
+    },
+    {
+      "id": "w4-pzt",
+      "day": 22,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Işık her şeydir. 💡 Değişimini aynı ışıkta çekmenin 4 yolu.\n\nKaydet, bu akşam dene. 🔖\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "carousel",
+        "accent": "gold",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "İPUCU",
+            "title": "Işık\nher şeydir",
+            "image": "monstera/day22"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Gün ışığını sabitle",
+            "body": "Pencereden gelen ışık saate göre değişir. Hatırlatma saatini her gün aynı tut."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Arkadan ışık alma",
+            "body": "Pencereye sırtını değil yüzünü dön. Arkadan gelen ışık konuyu karartır."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Akşam çekiyorsan",
+            "body": "Hep aynı lambayı aç, tavan ışığını ve flaşı kapat. Renk tonu sabit kalır."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Bulutlu güne üzülme",
+            "body": "Küçük ışık farkları timelapse'e doğallık katar. Önemli olan her gün çekmek."
+          },
+          {
+            "kind": "cta",
+            "title": "Aynı ışık,\naynı saat.",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s4-pzt",
+      "day": 22,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w4-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s4-car",
+      "day": 24,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w4-car",
+      "day": 24,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "topluluk",
+      "caption": "#kareyo30 Gün 7. 🌱 İlk yapraklar geldi!\n\nBir haftalık ilerleme: 7 gün, 7 kare. Sen kaçıncı gündesin? Yorumlara yaz.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "pothos",
+        "title": "Pothos · 1. hafta",
+        "frames": 7,
+        "totalDays": 30,
+        "music": "sakin"
+      },
+      "notes": null
+    },
+    {
+      "id": "w4-cum",
+      "day": 26,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "motivasyon",
+      "caption": "Mükemmel bir kare değil, her gün bir kare. 📸\n\nBugün dağınık saçla, kötü ışıkta, aceleyle çektiysen de sorun yok. Seriyi taşıyan şey mükemmellik değil, devamlılık.\n\n#kareyo #hergünbirkare #değişim #timelapse #alışkanlık #motivasyon #disiplin",
+      "render": {
+        "template": "quote",
+        "quote": "Mükemmel bir kare değil,\nher gün bir kare.",
+        "accent": "coral",
+        "image": "feslegen/day18"
+      },
+      "notes": null
+    },
+    {
+      "id": "s4-cmt",
+      "day": 27,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-streak",
+        "sequence": "pothos",
+        "frame": 10,
+        "headline": "#kareyo30 · Gün 10"
+      },
+      "notes": null
+    },
+    {
+      "id": "w5-pzt",
+      "day": 29,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ürün",
+      "caption": "Bir günü kaçırdın mı? Seri bitmedi. 🛟\n\nKareyo'da her değişim için bir kaçırma hakkın var: bir gün çekemezsen o gün korunur, serin devam eder. İki gün üst üste kaçırırsan değişim sona erer; bu yüzden hatırlatmaları açık tut.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması",
+      "render": {
+        "template": "carousel",
+        "accent": "mint",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "BİLİYOR MUYDUN",
+            "title": "Bir gün\nkaçırınca\nne olur?",
+            "image": "pothos/day12"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Kaçırma hakkın var",
+            "body": "Her değişimde bir kaçırma hakkı var. Bir günü kaçırırsan o gün korunur, serin bozulmaz."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "İki gün üst üste olmaz",
+            "body": "İki gün üst üste kaçırırsan değişim sona erer. Kural sert ama seni tutan da bu."
+          },
+          {
+            "kind": "screen",
+            "n": 3,
+            "title": "Gün bitmeden hatırlatır",
+            "body": "Akşam saatlerinde hâlâ çekmediysen kilit ekranında geri sayım başlar.",
+            "image": "screens/island"
+          },
+          {
+            "kind": "cta",
+            "title": "Seri\nsende.",
+            "body": "Hatırlatmaları açık tut 🔔"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s5-pzt",
+      "day": 29,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w5-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s5-car",
+      "day": 31,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w5-car",
+      "day": 31,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "topluluk",
+      "caption": "#kareyo30 Gün 14: yarı yol! 🪴\n\nİki haftada iki yeni sürgün. Bu hafta seri nasıl gidiyor? 🔥\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "pothos",
+        "title": "Pothos · 2. hafta",
+        "frames": 14,
+        "totalDays": 30,
+        "music": "parlak"
+      },
+      "notes": null
+    },
+    {
+      "id": "w5-cum",
+      "day": 33,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Bitkini fotoğraflıyorsan: 4 ipucu. 🌿\n\nBitkiler sabit durur ama yavaş değişir; o yüzden kadrajın her gün aynı olması en çok bitkilerde fark yaratır.\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "carousel",
+        "accent": "mint",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "KATEGORİ · BİTKİ",
+            "title": "Bitkini\nçekmenin\n4 sırrı",
+            "image": "pilea/day25"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Saksıyı işaretle",
+            "body": "Saksının önüne küçük bir işaret koy; her gün aynı yönü kameraya çevir."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Biraz geniş çek",
+            "body": "Bitki büyüyecek. İlk gün tepede ve yanlarda boşluk bırak."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Sulamadan önce çek",
+            "body": "Yapraklar sulamadan sonra birkaç saat farklı durur. Rutini sabitle."
+          },
+          {
+            "kind": "image",
+            "n": 4,
+            "title": "30 günün 30 karesi",
+            "body": "Sonunda tek tek bakınca bile büyümeyi görürsün.",
+            "grid": "pilea"
+          },
+          {
+            "kind": "cta",
+            "title": "Bitkin\nhazır mı?",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s5-cmt",
+      "day": 34,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-streak",
+        "sequence": "pothos",
+        "frame": 17,
+        "headline": "#kareyo30 · Gün 17"
+      },
+      "notes": null
+    },
+    {
+      "id": "w6-pzt",
+      "day": 36,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Kilo ve fitness değişimini çekmenin doğru yolu. 🏋️\n\nVücut değişimi en çok kadraj ve poza duyarlıdır. 4 kural, net bir Önce/Sonra için:\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı #fitness #kilovermek #fitnessmotivasyon",
+      "render": {
+        "template": "carousel",
+        "accent": "coral",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "KATEGORİ · FİTNESS",
+            "title": "Net bir\nÖnce/Sonra\niçin 4 kural",
+            "image": null
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Hep aynı poz",
+            "body": "Önden, kollar yanda, ağırlık iki ayakta. Pozunu ilk gün belirle ve değiştirme."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Aynı saat, aç karnına",
+            "body": "Sabah, kahvaltıdan önce. Gün içindeki şişkinlik farkları kayboluyor."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Zamanlayıcı + sabit telefon",
+            "body": "Telefonu göğüs hizasında bir yere daya, 10 saniyelik zamanlayıcıyı aç."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Sayıyı da kaydet",
+            "body": "Kareyo'da fotoğrafla birlikte kilonu ya da bel ölçünü girebilirsin; filmde kare kare görünür."
+          },
+          {
+            "kind": "cta",
+            "title": "Kanıt\nfotoğrafta.",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s6-pzt",
+      "day": 36,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w6-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s6-car",
+      "day": 38,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w6-car",
+      "day": 38,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "topluluk",
+      "caption": "#kareyo30 Gün 21. 🌿 Pothos sarkmaya başladı!\n\nÜç hafta, 21 kare. Bitiş çizgisi görünüyor. Sen de son haftaya giriyorsan yorumlara 🔥 bırak.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "pothos",
+        "title": "Pothos · 3. hafta",
+        "frames": 21,
+        "totalDays": 30,
+        "music": "hareketli"
+      },
+      "notes": null
+    },
+    {
+      "id": "w6-cum",
+      "day": 40,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "motivasyon",
+      "caption": "Son 9 gün. Şimdi bırakma. 💪\n\nÇoğu kişi tam sonuçlar görünmeye başlarken bırakıyor. Serin buraya kadar geldiyse, bitiş çizgisi senin.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması #alışkanlık #motivasyon #disiplin",
+      "render": {
+        "template": "quote",
+        "quote": "Sonuçlar görünmeye\nbaşladığında\nbırakma.",
+        "accent": "gold",
+        "image": "pothos/day21"
+      },
+      "notes": null
+    },
+    {
+      "id": "s6-cmt",
+      "day": 41,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-streak",
+        "sequence": "pothos",
+        "frame": 24,
+        "headline": "#kareyo30 · Gün 24"
+      },
+      "notes": null
+    },
+    {
+      "id": "w7-pzt",
+      "day": 43,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "#kareyo30 tamamlandı! 🎉 Gün 1 → Gün 30.\n\nBoş bir saksıdan sarkan bir pothos'a. 30 gün, 30 kare, 10 saniye.\n\nSen de bitirdiysen filmini hikâyende paylaş, #kareyo30 ve @kareyo etiketle; en güzellerini burada paylaşacağız.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-sequence",
+        "sequence": "pothos",
+        "title": "Pothos",
+        "frames": 30,
+        "totalDays": 30,
+        "music": "parlak"
+      },
+      "notes": null
+    },
+    {
+      "id": "s7-pzt",
+      "day": 43,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w7-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s7-car",
+      "day": 45,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w7-car",
+      "day": 45,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Evcil hayvanının büyümesini çekmek zor mu? 🐾 4 taktik.\n\nYavru kedi ve köpekler hızlı büyür; 30 gün bile fark yaratır.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı #evcilhayvan #yavrukedi #yavruköpek",
+      "render": {
+        "template": "carousel",
+        "accent": "gold",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "KATEGORİ · EVCİL HAYVAN",
+            "title": "Dostunun\nbüyümesini\nyakala",
+            "image": null
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Sabit bir yer seç",
+            "body": "Hep aynı minder ya da aynı köşe. Arka plan sabit kalınca büyüme belli olur."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Ödülle bekle",
+            "body": "Mama kabının yanında ya da ödül maması elindeyken çek; birkaç saniye yerinde durur."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Bir ölçek koy",
+            "body": "Yanına aynı oyuncağı ya da bir kutuyu koy. Büyüme ona göre göz önüne çıkar."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Mükemmeli bekleme",
+            "body": "Hareket ettiyse de çek. Sihirli Hizalama sahneyi hizalar, kaçırma hakkın da var."
+          },
+          {
+            "kind": "cta",
+            "title": "Dostunun\nfilmi.",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "w7-cum",
+      "day": 47,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "ürün",
+      "caption": "Gizlilik varsayılan. 🔒\n\nKareyo'da fotoğrafların yalnızca telefonunda saklanır. Hizalama ve video üretimi tamamen cihazında yapılır. Birlikte Değiş'te bile ekibin yalnızca gün ve seri bilgisini görür; fotoğraf asla paylaşılmaz.\n\n#kareyo #hergünbirkare #değişim #timelapse #gizlilik",
+      "render": {
+        "template": "announce",
+        "eyebrow": "GİZLİLİK",
+        "headline": "Fotoğrafların\nsende kalır.",
+        "body": "Hizalama ve video cihazında.\nBulut yok, reklam yok.",
+        "screen": "detail",
+        "accent": "mint"
+      },
+      "notes": null
+    },
+    {
+      "id": "s7-cmt",
+      "day": 48,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-streak",
+        "sequence": "pothos",
+        "frame": 30,
+        "headline": "#kareyo30 · Gün 30"
+      },
+      "notes": null
+    },
+    {
+      "id": "w8-pzt",
+      "day": 50,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Saç ve sakal değişimini çekmenin 4 kuralı. 🧔\n\nSaç ve sakal günde milimetre büyür; açı ve ışık her gün aynı değilse fark kaybolur.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı #sakal #saç #saçbakımı",
+      "render": {
+        "template": "carousel",
+        "accent": "coral",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "KATEGORİ · SAÇ / SAKAL",
+            "title": "Milimetreyi\nfotoğrafla",
+            "image": "sakal/day30"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Yüzün kameraya dik",
+            "body": "Başını eğme, çeneni kaldırma. Telefon göz hizasında."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Canlı kılavuzu kullan",
+            "body": "Kareyo kamerası dünkü yüzünün yerini kesikli çerçeveyle gösterir; oturunca 'Hizalandı' der."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Ön kamera mı arka mı?",
+            "body": "Hangisiyle başladıysan onunla devam et. Lensler farklı görüntüler."
+          },
+          {
+            "kind": "onion",
+            "n": 4,
+            "title": "Gün 1 ve Gün 30",
+            "body": "Aynı kadraj, tek fark: sakal.",
+            "sequence": "sakal",
+            "a": 1,
+            "b": 30,
+            "aligned": false
+          },
+          {
+            "kind": "cta",
+            "title": "Bugün\nGün 1.",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s8-pzt",
+      "day": 50,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w8-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s8-car",
+      "day": 52,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w8-car",
+      "day": 52,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "ürün",
+      "caption": "Sihirli Hizalama nasıl çalışır? 🪄\n\nSolda ham kareler, sağda Kareyo'nun hizaladığı. Her gün telefon biraz kayar; Kareyo sahneyi bulup her kareyi aynı kadraja oturtur. Tamamen cihazında.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "reel-compare",
+        "music": "sakin",
+        "left": "pilea",
+        "right": "pilea-aligned",
+        "leftLabel": "Ham",
+        "rightLabel": "Sihirli Hizalama",
+        "title": "Titreme yok."
+      },
+      "notes": null
+    },
+    {
+      "id": "w8-cum",
+      "day": 54,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "topluluk",
+      "caption": "Kiminle birlikte değişmek istersin? 🤝\n\nPartnerin, kardeşin, spor arkadaşın… Kareyo'da Birlikte Değiş ile ekip kurun; ortak seriniz her gün ikinizin de çekmesiyle büyür.\n\nOnu etiketle, bu hafta birlikte başlayın. 👇\n\n#kareyo #hergünbirkare #değişim #timelapse #birliktedeğiş",
+      "render": {
+        "template": "announce",
+        "eyebrow": "BİRLİKTE DEĞİŞ",
+        "headline": "Kiminle\nbaşlıyorsun?",
+        "body": "Etiketle, ekibini kur.\nOrtak seri, iki kat motivasyon.",
+        "screen": "circle",
+        "accent": "coral"
+      },
+      "notes": null
+    },
+    {
+      "id": "s8-cmt",
+      "day": 55,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 8,
+        "tip": "Hep aynı kamera: ön ya da arka."
+      },
+      "notes": null
+    },
+    {
+      "id": "w9-pzt",
+      "day": 57,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "motivasyon",
+      "caption": "Alışkanlık kaç günde oluşur? 🧠\n\nPopüler cevap 21 gün. Araştırmalar daha uzun ve kişiden kişiye değişen bir süre gösteriyor. İyi haber: önemli olan süre değil, her gün tekrar.\n\n#kareyo #hergünbirkare #değişim #timelapse #alışkanlık #motivasyon #disiplin",
+      "render": {
+        "template": "carousel",
+        "accent": "gold",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "MOTİVASYON",
+            "title": "Alışkanlık\nkaç günde\noluşur?",
+            "image": "pilea/day15"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "21 gün bir efsane",
+            "body": "Sık duyulan '21 gün' kuralının sağlam bir dayanağı yok."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Araştırma ne diyor?",
+            "body": "University College London'ın 2009 çalışmasında ortalama 66 gün çıktı; kişiye göre 18 ile 254 gün arası."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Bir günü kaçırmak sorun değil",
+            "body": "Aynı çalışmaya göre arada bir günü kaçırmak alışkanlığın oluşmasını belirgin şekilde bozmadı."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Küçük ve hep aynı",
+            "body": "Aynı saat, aynı bağlam, küçük bir eylem. Günde bir kare tam olarak bu."
+          },
+          {
+            "kind": "cta",
+            "title": "Bugün\nbir kare.",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s9-pzt",
+      "day": 57,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w9-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s9-car",
+      "day": 59,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w9-car",
+      "day": 59,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "ürün",
+      "caption": "Tek dokunuşla Reels nasıl yapılır? 🎬\n\nDeğişimini aç → Videonu Oluştur → Hikâye. Kareyo kareleri hizalar, gün sayacını ve Önce/Sonra perdesini ekler. İstersen müzik seç; kareler vuruşa oturur.\n\n#kareyo #hergünbirkare #değişim #timelapse #reels",
+      "render": {
+        "template": "reel-product",
+        "music": "hareketli",
+        "scenes": [
+          {
+            "kind": "title",
+            "eyebrow": "NASIL YAPILIR",
+            "title": "Tek dokunuşla\nReels."
+          },
+          {
+            "kind": "phone",
+            "screen": "detail",
+            "caption": "1 · Değişimini aç"
+          },
+          {
+            "kind": "phone",
+            "screen": "reveal",
+            "caption": "2 · Hikâye'yi seç"
+          },
+          {
+            "kind": "image",
+            "image": "reel/lapse",
+            "caption": "3 · Paylaş"
+          },
+          {
+            "kind": "cta",
+            "title": "Senin\nfilmin."
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "w9-cum",
+      "day": 61,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "ipucu",
+      "caption": "Tek ihtiyacın: bir zamanlayıcı ve bir dayanak. ⏱️\n\nTelefonu kitaplığa, rafa ya da bir bardağa daya; 10 saniyelik zamanlayıcıyı aç. Elin titremez, her gün aynı yükseklik.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "quote",
+        "quote": "Telefonu daya.\n10 saniye.\nÇek.",
+        "accent": "mint",
+        "image": "monstera/day30"
+      },
+      "notes": null
+    },
+    {
+      "id": "s9-cmt",
+      "day": 62,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 9,
+        "tip": "Saksıyı her gün aynı yöne çevir."
+      },
+      "notes": null
+    },
+    {
+      "id": "w10-pzt",
+      "day": 64,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "3 bitki, 30 gün, aynı anda. 🌿🌱🪴\n\nFesleğen, monstera ve pilea; hepsi her gün bir kare. Hangisi en çok değişti?\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-triptych",
+        "music": "parlak",
+        "sequences": [
+          "feslegen",
+          "monstera",
+          "pilea"
+        ],
+        "labels": [
+          "Fesleğen",
+          "Monstera",
+          "Pilea"
+        ],
+        "title": "30 gün."
+      },
+      "notes": null
+    },
+    {
+      "id": "s10-pzt",
+      "day": 64,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w10-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s10-car",
+      "day": 66,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w10-car",
+      "day": 66,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "ipucu",
+      "caption": "Değişim fotoğraflarında en sık yapılan 5 hata. 🚫\n\nKendini bunlardan birinde buldun mu? Yorumlara numarasını yaz.\n\n#kareyo #hergünbirkare #değişim #timelapse #fotoğrafipuçları #iphonefotoğrafçılığı",
+      "render": {
+        "template": "carousel",
+        "accent": "coral",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "İPUCU",
+            "title": "En sık\n5 hata",
+            "image": "pilea/day05"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Her gün farklı saat",
+            "body": "Işık değişir, gölgeler kayar; değişim değil ışık görünür."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Zoom kullanmak",
+            "body": "Yakınlaştırma her gün biraz farklı olur. Telefonu yaklaştır, zoom'u kullanma."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Filtre ve güzelleştirme",
+            "body": "Filtre renkleri değiştirir. Değişimi değil filtreyi kaydedersin."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "Kötü günü atlamak",
+            "body": "Kötü gün de kayıttır. Atlamak seriyi bozar, kötü kare bozmaz."
+          },
+          {
+            "kind": "text",
+            "n": 5,
+            "title": "Sonuca erken bakmak",
+            "body": "Gün 5'te fark göremezsin. Gün 30'da göreceksin."
+          },
+          {
+            "kind": "cta",
+            "title": "Hepsinden\nkurtul.",
+            "body": "Kaydet 🔖"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "w10-cum",
+      "day": 68,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "dönüşüm",
+      "caption": "Tohumdan tencereye: 30 günde fesleğen. 🌱→🌿\n\nİlk 4 gün sadece toprak vardı. Sabır, her gün bir kare.\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "beforeafter",
+        "sequence": "feslegen",
+        "left": 1,
+        "right": 30,
+        "headline": "Gün 1 → Gün 30"
+      },
+      "notes": null
+    },
+    {
+      "id": "s10-cmt",
+      "day": 69,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 10,
+        "tip": "Sabah, kahvaltıdan önce: en tutarlı saat."
+      },
+      "notes": null
+    },
+    {
+      "id": "w11-pzt",
+      "day": 71,
+      "time": "19:00",
+      "kind": "carousel",
+      "pillar": "topluluk",
+      "caption": "Senin sorduğun, bizim yanıtladığımız: Kareyo SSS. 💬\n\nBaşka sorun varsa yorumlara yaz, bir sonraki SSS'ye ekleyelim.\n\n#kareyo #hergünbirkare #değişim #timelapse",
+      "render": {
+        "template": "carousel",
+        "accent": "mint",
+        "slides": [
+          {
+            "kind": "cover",
+            "eyebrow": "SSS",
+            "title": "En çok\nsorulanlar",
+            "image": "monstera/day15"
+          },
+          {
+            "kind": "text",
+            "n": 1,
+            "title": "Ücretli mi?",
+            "body": "Kareyo ücretsiz. Premium; filigransız video, sayısal takip ve ekip kurma gibi ek özellikleri açar."
+          },
+          {
+            "kind": "text",
+            "n": 2,
+            "title": "Fotoğraflarım nerede?",
+            "body": "Yalnızca telefonunda. Kareyo fotoğraflarını bir sunucuya yüklemez."
+          },
+          {
+            "kind": "text",
+            "n": 3,
+            "title": "Bir günü kaçırırsam?",
+            "body": "Kaçırma hakkın o günü korur. İki gün üst üste kaçırılırsa değişim sona erer."
+          },
+          {
+            "kind": "text",
+            "n": 4,
+            "title": "30 günden uzun olur mu?",
+            "body": "Evet. Süreyi kendin seçersin ya da hedefe ulaşınca sınırsız devam edebilirsin."
+          },
+          {
+            "kind": "cta",
+            "title": "Sorun mu\nvar?",
+            "body": "Yorumlara yaz 💬"
+          }
+        ]
+      },
+      "notes": null
+    },
+    {
+      "id": "s11-pzt",
+      "day": 71,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w11-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s11-car",
+      "day": 73,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w11-car",
+      "day": 73,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "30 gün = 30 kare. 🧩 Tek tek bakınca küçük, birlikte bakınca dev bir fark.\n\nKareyo her günü bir kareye, 30 kareyi bir filme çevirir.\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "reel-grid",
+        "music": "sakin",
+        "sequence": "monstera",
+        "title": "30 gün = 30 kare"
+      },
+      "notes": null
+    },
+    {
+      "id": "w11-cum",
+      "day": 75,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "motivasyon",
+      "caption": "Bir yıl sonra bugünün karesine teşekkür edeceksin. 🙏\n\nDeğişimi en çok, başlangıcın fotoğrafını kaybetmiş olanlar özler. Bugün Gün 1'in olsun.\n\n#kareyo #hergünbirkare #değişim #timelapse #alışkanlık #motivasyon #disiplin",
+      "render": {
+        "template": "quote",
+        "quote": "Bir yıl sonra\nbugünün karesine\nteşekkür edeceksin.",
+        "accent": "gold",
+        "image": "sakal/day01"
+      },
+      "notes": null
+    },
+    {
+      "id": "s11-cmt",
+      "day": 76,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 11,
+        "tip": "Ekip kur: ortak seri, iki kat motivasyon."
+      },
+      "notes": null
+    },
+    {
+      "id": "w12-pzt",
+      "day": 78,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "dönüşüm",
+      "caption": "Monstera, 30 günün 30 karesi. 🌿\n\nHer kare bir gün. Kaydır, gün gün izle; sonra kendi 30 gününü başlat.\n\n#kareyo #hergünbirkare #değişim #timelapse #bitki #bitkibakımı #plantsofinstagram #evbitkileri",
+      "render": {
+        "template": "grid30",
+        "sequence": "monstera",
+        "headline": "30 gün",
+        "body": "Monstera · her gün bir kare"
+      },
+      "notes": null
+    },
+    {
+      "id": "s12-pzt",
+      "day": 78,
+      "time": "21:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-newpost",
+        "post": "w12-pzt"
+      },
+      "notes": null
+    },
+    {
+      "id": "s12-car",
+      "day": 80,
+      "time": "09:30",
+      "kind": "story",
+      "pillar": "topluluk",
+      "caption": "",
+      "render": {
+        "template": "story-question",
+        "headline": "Bugünün karesini\nçektin mi?",
+        "options": [
+          "📸 Çektim",
+          "⏳ Akşam çekeceğim"
+        ],
+        "footer": "Yanıtla, bize yaz 💬"
+      },
+      "notes": null
+    },
+    {
+      "id": "w12-car",
+      "day": 80,
+      "time": "20:30",
+      "kind": "reel",
+      "pillar": "dönüşüm",
+      "caption": "12 haftada çektiğimiz her şey, tek videoda. 🎞️\n\nFesleğen, monstera, pilea, pothos ve 30 günlük sakal. Hepsi her gün bir kareyle başladı.\n\nSıradaki değişim senin. 👇\n\n#kareyo #hergünbirkare #değişim #timelapse",
+      "render": {
+        "template": "reel-montage",
+        "music": "hareketli",
+        "sequences": [
+          "feslegen",
+          "monstera",
+          "pilea",
+          "pothos",
+          "sakal"
+        ],
+        "title": "Her gün bir kare."
+      },
+      "notes": null
+    },
+    {
+      "id": "w12-cum",
+      "day": 82,
+      "time": "19:00",
+      "kind": "image",
+      "pillar": "topluluk",
+      "caption": "Sıradaki değişimin ne? 👇\n\n12 hafta boyunca bitkiler büyüttük, sakal uzattık, #kareyo30'u bitirdik. Şimdi sıra sende: yorumlara başlayacağın değişimi yaz, 30 gün sonra burada görüşelim.\n\n#kareyo #hergünbirkare #değişim #timelapse #kareyo30 #30günmeydanokuması",
+      "render": {
+        "template": "announce",
+        "eyebrow": "SIRA SENDE",
+        "headline": "Sıradaki\ndeğişimin ne?",
+        "body": "Yorumlara yaz,\n30 gün sonra görüşelim.",
+        "screen": "home",
+        "accent": "gold"
+      },
+      "notes": null
+    },
+    {
+      "id": "s12-cmt",
+      "day": 83,
+      "time": "12:00",
+      "kind": "story",
+      "pillar": "ipucu",
+      "caption": "",
+      "render": {
+        "template": "story-tip",
+        "n": 12,
+        "tip": "Gün 30'da Reels'ini paylaş, #kareyo30 etiketle."
+      },
+      "notes": null
+    }
+  ]
+}

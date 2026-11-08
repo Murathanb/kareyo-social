@@ -1,0 +1,8 @@
+{
+  "start_date": null,
+  "timezone": "Europe/Istanbul",
+  "media_base_url": "https://murathanb.github.io/kareyo-social",
+  "graph_api": "https://graph.instagram.com/v22.0",
+  "max_per_run": 10,
+  "paused": false
+}
